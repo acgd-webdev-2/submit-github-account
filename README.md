@@ -1,7 +1,7 @@
 ---
 summary: "Submit your GitHub profile URL to this assignment so I have a record of it—and for marks."
 time: "3 minutes"
-deliverables: "URL on Canvas"
+deliverables: "Submit URL online"
 submit: "https://algonquin.instructure.com/courses/879551/assignments/7994056"
 ---
 
@@ -12,7 +12,7 @@ submit: "https://algonquin.instructure.com/courses/879551/assignments/7994056"
 - Make your GitHub account (which should already be done).
 - Go to your GitHub profile URL, by clicking `Top right icon > Profile`
 - Copy the URL from your browser’s URL bar.
-- Go to the “Submit your GitHub account” assignment on Canvas.
+- Go to the “Submit your GitHub account” assignment online.
 - Submit your URL to the assignment.
 
 ---
